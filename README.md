@@ -1,5 +1,5 @@
-## Hello, I'm Çağrı
-### I'm software developer 👋
+## Hello, I'm Çağrı 👋
+### I'm software developer
 
 - 🔭 I’m currently working on some project :v:
 - 🌱 I’m currently learning blockhain technology
