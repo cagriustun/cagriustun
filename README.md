@@ -1,6 +1,6 @@
 ### Hello, I'm Çağrı 👋
 
-- 🔭 I’m currently working on some project
+- 🔭 I’m currently working on some project :v:
 - 🌱 I’m currently learning blockhain technology
 - 💬 Ask me about JavaScript and Python
 
