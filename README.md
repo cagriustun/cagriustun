@@ -1,4 +1,4 @@
-### Hello, I'm Çağrı 👋
+### Hello, I'm Çağrı and I'm software developer 👋
 
 - 🔭 I’m currently working on some project :v:
 - 🌱 I’m currently learning blockhain technology
